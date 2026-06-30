@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Nuxt Minimal Starter
 
 Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
@@ -73,3 +74,7 @@ bun run preview
 ```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+=======
+# Eddieaps-detailing
+A professional website for Eddieapsdetailing.com should focus on building trust, showcasing your work, and making it easy for customers to book
+>>>>>>> f3c8f5aea0c69d0e69a36d57aec9093cf8ae7a8d
